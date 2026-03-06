@@ -2,7 +2,11 @@
 
 This is the official code for MLLM-OCL: A Online Continue Learning Framework for Multimodal Large Language Models
 
-We are the team  Team ICT-EMLS, which is the [winner] (https://sites.google.com/view/clvision2025/challenge/challenge-results) of 6th CLVision Workshop @ ICCV 2025 Challenge.
+We are the Team ICT-EMLS, which is the [winner](https://sites.google.com/view/clvision2025/challenge/challenge-results) of 6th CLVision Workshop @ ICCV 2025 Challenge.
+
+<div align="center">
+<img src="iccv_clvision_certification.png" alt="diagram" width="500" />
+</div>
 
 For more details about the 6th CLVision Workshop @ ICCV 2025 Challenge, please refer to the [challenge website](https://sites.google.com/view/clvision2025/challenge).
 
